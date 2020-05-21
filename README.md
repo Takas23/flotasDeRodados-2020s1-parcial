@@ -55,7 +55,7 @@ Debe ser posible enviarle los siguientes mensajes a cada objeto que representa a
 - `capacidadTotalEnColor(color)`, la cantidad total de personas que puede transportar la flota afectada a la dependencia, considerando solamente los rodados del color indicado.
 - `colorDelRodadoMasRapido()`, eso.
 - `capacidadFaltante()`, que es el resultado de restar, de la cantidad de empleados, la capacidad sumada de los vehículos de la flota. 
-- `esGrande()`, la condición es que la dependencia tenga al menos 40 empleados y 5 rodados.
+- `	`, la condición es que la dependencia tenga al menos 40 empleados y 5 rodados.
 
 
 ## Test con dos dependencias
